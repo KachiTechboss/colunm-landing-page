@@ -42,36 +42,36 @@ h1{
     font-family: "Big Shoulders Display", sans-serif;
 }
 .d-button{
-    border-color:  hsla(0, 0%, 100%, 0.75) ;
-    background-color: hsla(0, 0%, 100%, 0.75) ;
+    border-color:   hsl(0, 0%, 95%) ;
+    background-color: hsl(0, 0%, 95%) ;
     border-radius: 25px;
     width: 70%;
     color:  hsl(31, 77%, 52%);
     
 }
 .d-button:hover{
-    border-color:  hsla(0, 0%, 100%, 0.75) ;
-    background-color: hsla(0, 0%, 100%, 0.75) ;
+    border-color:   hsl(0, 0%, 95%) ;
+    background-color:  hsl(0, 0%, 95%) ;
     color:  hsl(31, 77%, 52%);
 
 }
 .d-button-2{
-    border-color:  hsla(0, 0%, 100%, 0.75) ;
-    background-color: hsla(0, 0%, 100%, 0.75) ;
+    border-color:  hsl(0, 0%, 95%);
+    background-color:  hsl(0, 0%, 95%) ;
     border-radius: 25px;
     width: 70%;
     color:  hsl(184, 100%, 22%);
     
 }
 .d-button-2:hover{
-    border-color:  hsla(0, 0%, 100%, 0.75) ;
-    background-color: hsla(0, 0%, 100%, 0.75) ;
+    border-color:  hsl(0, 0%, 95%) ;
+    background-color:  hsl(0, 0%, 95%);
     color:  hsl(184, 100%, 22%);
 
 }
 .d-button-3{
-    border-color:  hsla(0, 0%, 100%, 0.75) ;
-    background-color: hsla(0, 0%, 100%, 0.75) ;
+    border-color:  hsl(0, 0%, 95%) ;
+    background-color:  hsl(0, 0%, 95%);
     border-radius: 25px;
     width: 70%;
     color:  hsl(179, 100%, 13%);
