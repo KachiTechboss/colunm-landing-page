@@ -1,0 +1,96 @@
+body{
+    background-color:  hsl(0, 0%, 95%);
+    padding: 100px;
+    font-family: "Lexend Deca";
+}
+.body-container{
+    display: flex;
+    text-align: left;
+    padding: 50px;
+    
+}
+.body-container p{
+    color:  hsla(0, 0%, 100%, 0.75);
+    font-size: 16px;
+}
+.first-container{
+    background-color:  hsl(31, 77%, 52%);
+    padding: 50px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    line-height: 2;
+}
+.second-container{
+    background-color: hsl(184, 100%, 22%);
+    padding: 50px;
+    line-height: 2;
+}
+.final-container{
+    background-color: hsl(179, 100%, 13%);
+    padding: 50px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    line-height: 2;
+}
+.img{
+    padding-bottom: 30px;
+
+}
+h1{
+    padding-bottom: 30px;
+    color:  hsl(0, 0%, 95%);
+    font-family: "Big Shoulders Display", sans-serif;
+}
+.d-button{
+    border-color:  hsla(0, 0%, 100%, 0.75) ;
+    background-color: hsla(0, 0%, 100%, 0.75) ;
+    border-radius: 25px;
+    width: 70%;
+    color:  hsl(31, 77%, 52%);
+    
+}
+.d-button:hover{
+    border-color:  hsla(0, 0%, 100%, 0.75) ;
+    background-color: hsla(0, 0%, 100%, 0.75) ;
+    color:  hsl(31, 77%, 52%);
+
+}
+.d-button-2{
+    border-color:  hsla(0, 0%, 100%, 0.75) ;
+    background-color: hsla(0, 0%, 100%, 0.75) ;
+    border-radius: 25px;
+    width: 70%;
+    color:  hsl(184, 100%, 22%);
+    
+}
+.d-button-2:hover{
+    border-color:  hsla(0, 0%, 100%, 0.75) ;
+    background-color: hsla(0, 0%, 100%, 0.75) ;
+    color:  hsl(184, 100%, 22%);
+
+}
+.d-button-3{
+    border-color:  hsla(0, 0%, 100%, 0.75) ;
+    background-color: hsla(0, 0%, 100%, 0.75) ;
+    border-radius: 25px;
+    width: 70%;
+    color:  hsl(179, 100%, 13%);
+    
+}
+.d-button-3:hover{
+    border-color:  hsla(0, 0%, 100%, 0.75) ;
+    background-color: hsla(0, 0%, 100%, 0.75) ;
+    color:   hsl(179, 100%, 13%);
+
+}
+
+.first-button{
+    padding-top: 50px;
+}
+.second-button{
+    padding-top: 50px;
+}
+.final-button{
+    padding-top: 50px;
+    color:  hsl(179, 100%, 13%);
+}
